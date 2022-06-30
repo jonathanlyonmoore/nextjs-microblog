@@ -39,7 +39,7 @@ export default function Home({allPostsData}) {
       </Head>
       <section className={utilStyle.headingMd}>
         <p>
-          私は駆け出しフロントエンドエンジニアです。現在、Next.jsを勉強中です。
+          私は駆け出しフロントエンドエンジニアです。現在、フレームワークを中心に勉強しています。
         </p>
       </section>
 
