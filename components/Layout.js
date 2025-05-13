@@ -1,11 +1,11 @@
-import Head from "next/head";
+﻿import Head from "next/head";
 import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
 
 
-const name = "高橋悟生";
+const name = "Jonathan Widsor Moore";
 export const siteTitle = "next.js-blog";
 
 function Layout({children,home}) {
